@@ -1,3 +1,0 @@
-#RDMA
-#DPDK
-#SPDK

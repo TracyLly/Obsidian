@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distributed storage/Bypass Kernel.md",
+                "file": "Distributed storage/Consensus Algorithm/Paxos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bypass Kernel"
+              "title": "Paxos"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#SPDK",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,6 +196,12 @@
   },
   "active": "cccf3a1a20ef5e51",
   "lastOpenFiles": [
+    "Distributed storage/Bypass Kernel/SPDK.md",
+    "Distributed storage/Consensus Algorithm/Paxos.md",
+    "Distributed storage/Consensus Algorithm",
+    "Distributed storage/Bypass Kernel/DPDK.md",
+    "Distributed storage/Bypass Kernel/RDMA.md",
+    "Distributed storage/Bypass Kernel",
     "Distributed storage/System/Minio.md",
     "Distributed storage/RPC/Thrift.md",
     "Distributed storage/RPC/GRPC.md",
@@ -211,19 +217,16 @@
     "Distributed storage/System",
     "Distributed storage/NVME.md",
     "Distributed storage/leveldb.md",
-    "Distributed storage/Bypass Kernel.md",
     "Distributed storage/SPDK.md",
     "Distributed storage/RDMA.md",
     "Distributed storage/System/Ceph.md",
     "Distributed storage/RPC/BRPC.md",
     "未命名.base",
-    "Distributed storage/Raft.md",
+    "Distributed storage/Consensus Algorithm/Raft.md",
     "未命名.md",
     "未命名",
     "SPDK",
     "Distributed storage",
-    "C++",
-    "Linux.md",
-    "Linux"
+    "Linux.md"
   ]
 }
