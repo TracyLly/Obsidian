@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distributed storage/Ceph.md",
+                "file": "Distributed storage/Bypass Kernel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ceph"
+              "title": "Bypass Kernel"
             }
           }
         ]
@@ -196,15 +196,16 @@
   },
   "active": "cccf3a1a20ef5e51",
   "lastOpenFiles": [
+    "Distributed storage/SPDK.md",
+    "Distributed storage/Bypass Kernel.md",
+    "Distributed storage/RDMA.md",
+    "Distributed storage/Ceph.md",
     "Distributed storage/BRPC.md",
     "Distributed storage/SSD.md",
     "未命名.base",
-    "Distributed storage/Ceph.md",
     "Distributed storage/sheepdog.md",
     "Distributed storage/leveldb.md",
     "Distributed storage/NVME.md",
-    "Distributed storage/RDMA.md",
-    "Distributed storage/SPDK.md",
     "Distributed storage/Raft.md",
     "未命名.md",
     "未命名",
