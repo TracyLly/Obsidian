@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distributed storage/Bypass Kernel/Bypass Kernel.md",
+                "file": "Distributed storage/Bypass Kernel/DMA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bypass Kernel"
+              "title": "DMA"
             }
           }
         ]
@@ -199,9 +199,10 @@
   },
   "active": "cccf3a1a20ef5e51",
   "lastOpenFiles": [
-    "Distributed storage/Bypass Kernel/RDMA.md",
-    "Distributed storage/Bypass Kernel/Bypass Kernel.md",
     "Distributed storage/Bypass Kernel/DPDK.md",
+    "Distributed storage/Bypass Kernel/DMA.md",
+    "Distributed storage/Bypass Kernel/Bypass Kernel.md",
+    "Distributed storage/Bypass Kernel/RDMA.md",
     "Distributed storage/Consensus Algorithm/Paxos.md",
     "Distributed storage/Bypass Kernel/SPDK.md",
     "Distributed storage/Consensus Algorithm",
